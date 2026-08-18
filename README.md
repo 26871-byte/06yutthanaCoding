@@ -24,3 +24,6 @@
 
 3/08/69
 Mini Project
+
+17/08/69
+ทำแอป miniproject
